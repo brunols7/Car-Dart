@@ -1,5 +1,5 @@
 # Car-Dart
-Projeto de Estudo em Dart.<br>
+Primeiro e Simples Projeto de Estudo em Dart.<br>
 ### Classe, Atributos e Métodos
 
 ---
