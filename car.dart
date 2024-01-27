@@ -6,10 +6,10 @@ void main(){
   Carro carroDoZe = Carro('Lancer', 'Prata', 'Mitsubishi', 2017, 61990);
 
   print(carroDoBruno.toString());
-  print('Valor do IPVA: ${carroDoBruno.valorIPVA(taxa)}');
+  print('Valor do IPVA: R\$ ${carroDoBruno.valorIPVA(taxa)}');
 
   print(carroDoZe.toString());
-  print('Valor do IPVA: ${carroDoZe.valorIPVA(taxa)}');
+  print('Valor do IPVA: R\$ ${carroDoZe.valorIPVA(taxa)}');
   
 }
 
